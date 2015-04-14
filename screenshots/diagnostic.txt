@@ -1,0 +1,51 @@
+I/MainActivity(  666): onPause event fired
+I/MainActivity(  666): onStop event fired
+I/MainActivity(  666): onRestart event fired
+I/MainActivity(  666): onStart event started
+I/MainActivity(  666): onResume event started
+I/MainActivity(  666): onPause event fired
+I/MainActivity(  666): onStop event fired
+E/MainActivity(  666): We're going down, Captain!
+I/MainActivity(  666): onCreate method fired.
+I/MainActivity(  666): onStart event started
+I/MainActivity(  666): onResume event started
+I/MainActivity(  666): onPause event fired
+I/MainActivity(  666): onStop event fired
+I/MainActivity(  666): onRestart event fired
+I/MainActivity(  666): onStart event started
+I/MainActivity(  666): onResume event started
+I/MainActivity(  666): onPause event fired
+I/MainActivity(  666): onStop event fired
+E/MainActivity(  666): We're going down, Captain!
+I/MainActivity(  666): onCreate method fired.
+I/MainActivity(  666): onStart event started
+I/MainActivity(  666): onResume event started
+I/MainActivity(  666): onPause event fired
+I/MainActivity(  666): onStop event fired
+I/MainActivity(  666): onRestart event fired
+I/MainActivity(  666): onStart event started
+I/MainActivity(  666): onResume event started
+I/MainActivity(  666): onPause event fired
+I/MainActivity(  666): onStop event fired
+I/MainActivity(  666): onRestart event fired
+I/MainActivity(  666): onStart event started
+I/MainActivity(  666): onResume event started
+I/MainActivity(  666): onPause event fired
+I/MainActivity(  666): onStop event fired
+E/MainActivity(  666): We're going down, Captain!
+I/MainActivity(  666): onCreate method fired.
+I/MainActivity(  666): onStart event started
+I/MainActivity(  666): onResume event started
+I/MainActivity(  666): onPause event fired
+I/MainActivity(  666): onStop event fired
+I/MainActivity(  666): onRestart event fired
+I/MainActivity(  666): onStart event started
+I/MainActivity(  666): onResume event started
+I/MainActivity(  666): onPause event fired
+I/MainActivity(  666): onStop event fired
+E/MainActivity(  666): We're going down, Captain!
+I/MainActivity(  666): onCreate method fired.
+I/MainActivity(  666): onStart event started
+I/MainActivity(  666): onResume event started
+I/MainActivity(  666): onPause event fired
+I/MainActivity(  666): onStop event fired

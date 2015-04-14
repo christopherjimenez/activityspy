@@ -4,14 +4,17 @@ import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.util.Log;
 
 
 public class MainActivity extends ActionBarActivity {
+    private static final String TAG = "MainActivity";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        Log.i(TAG, "onCreate method fired.");
     }
 
 
@@ -35,5 +38,41 @@ public class MainActivity extends ActionBarActivity {
         }
 
         return super.onOptionsItemSelected(item);
+    }
+
+    @Override
+    protected void onStart() {
+        Log.i(TAG, "onStart event started");
+        super.onStart();
+    }
+
+    @Override
+    protected void onResume() {
+        Log.i(TAG, "onResume event started");
+        super.onResume();
+    }
+
+    @Override
+    protected void onPause() {
+        Log.i(TAG, "onPause event fired");
+        super.onPause();
+    }
+
+    @Override
+    protected void onDestroy() {
+        Log.e(TAG, "We're going down, Captain!");
+        super.onDestroy();
+    }
+
+    @Override
+    protected void onStop() {
+        Log.i(TAG, "onStop event fired");
+        super.onStop();
+    }
+
+    @Override
+    protected void onRestart() {
+        Log.i(TAG, "onRestart event fired");
+        super.onRestart();
     }
 }
